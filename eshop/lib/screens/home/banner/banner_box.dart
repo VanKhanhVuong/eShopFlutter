@@ -1,7 +1,6 @@
-import 'package:eshop/models/banner.dart';
-import 'package:eshop/screens/home/banner_item.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:eshop/models/banner.dart';
+import 'banner_item.dart';
 
 class BannerBox extends StatefulWidget {
   const BannerBox({Key key}) : super(key: key);
