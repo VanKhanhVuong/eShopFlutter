@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter/material.dart';
-
 class TextExtention extends StatelessWidget {
   final String text;
   final double fontSize;

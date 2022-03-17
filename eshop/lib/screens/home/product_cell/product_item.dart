@@ -15,7 +15,7 @@ class ProductItem extends StatelessWidget {
     return InkWell(
       onTap: (){
         print("Open detail product");
-        Navigator.pushNamed(context, '/ProductDetailPage');
+        // Navigator.pushNamed(context, '/ProductDetailPage');
         // funcTest();
       },
       child: Container(
